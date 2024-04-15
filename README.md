@@ -1,4 +1,4 @@
-# learning management system ui design
+# learning management system ui design by flutter
 A new Flutter project.
 
 ## Getting Started
